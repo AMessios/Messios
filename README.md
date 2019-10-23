@@ -1,3 +1,2 @@
-# Messios
-CO1111
+# CO1111
 The computing challenge
